@@ -1,7 +1,5 @@
 # BukkitPE Multicraft conf
 
-- Create a folder on the jar folder name: BukkitPE
-- Then place your PHP bin on the BukkitPE folder. Then after you may start server. 
-- If you recieves any errors. Visit our website
-
-BukkitPE.net
+- [x] Download this conf and add it to your Multicraft jars folder
+- [x] Then after download any BukkitPE.jar and add it to your multicraft jars folder
+- [x] That's it make sure you choose BukkitPE when creating the server from multicraft
